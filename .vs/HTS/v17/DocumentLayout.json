@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ado_net\\1_ht 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|d:\\ado_net\\1_ht 1\\1_ht 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|solutionrelative:1_ht 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|d:\\ado_net\\1_ht 1\\1_ht 1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|solutionrelative:1_ht 1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|d:\\ado_net\\1_ht 1\\1_ht 1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA3911A1-3BC9-4166-99B9-FF3C1F1ED4F4}|1_ht 1\\1_ht 1.csproj|solutionrelative:1_ht 1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ado_net\\1_ht 1\\1_ht 1\\Product.cs",
+              "RelativeDocumentMoniker": "1_ht 1\\Product.cs",
+              "ToolTip": "D:\\Ado_net\\1_ht 1\\1_ht 1\\Product.cs",
+              "RelativeToolTip": "1_ht 1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:23:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Ado_net\\1_ht 1\\1_ht 1\\App.config",
+              "RelativeDocumentMoniker": "1_ht 1\\App.config",
+              "ToolTip": "D:\\Ado_net\\1_ht 1\\1_ht 1\\App.config",
+              "RelativeToolTip": "1_ht 1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T00:21:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ado_net\\1_ht 1\\1_ht 1\\Program.cs",
+              "RelativeDocumentMoniker": "1_ht 1\\Program.cs",
+              "ToolTip": "D:\\Ado_net\\1_ht 1\\1_ht 1\\Program.cs",
+              "RelativeToolTip": "1_ht 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:17:55.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

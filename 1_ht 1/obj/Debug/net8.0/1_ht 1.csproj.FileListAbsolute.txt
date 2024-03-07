@@ -1,0 +1,28 @@
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.exe
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.dll.config
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.deps.json
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.runtimeconfig.json
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\1_ht 1.pdb
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Ado_net\1_ht 1\1_ht 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.csproj.AssemblyReference.cache
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.AssemblyInfoInputs.cache
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.AssemblyInfo.cs
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.csproj.CoreCompileInputs.cache
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.csproj.Up2Date
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.dll
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\refint\1_ht 1.dll
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.pdb
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\1_ht 1.genruntimeconfig.cache
+D:\Ado_net\1_ht 1\1_ht 1\obj\Debug\net8.0\ref\1_ht 1.dll
