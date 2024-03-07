@@ -1,0 +1,12 @@
+D:\Ado_net\01_Intro\2_Params\bin\Debug\2_Params.exe.config
+D:\Ado_net\01_Intro\2_Params\bin\Debug\2_Params.exe
+D:\Ado_net\01_Intro\2_Params\bin\Debug\2_Params.pdb
+D:\Ado_net\01_Intro\2_Params\obj\Debug\2_Params.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\2_Params\obj\Debug\2_Params.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\2_Params\obj\Debug\2_Params.exe
+D:\Ado_net\01_Intro\2_Params\obj\Debug\2_Params.pdb
+D:\Ado_net\01_Intro\2_Params\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Ado_net\01_Intro\2_Params\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Ado_net\01_Intro\2_Params\obj\Debug\2_Params.csproj.Up2Date
+D:\Ado_net\01_Intro\2_Params\bin\Debug\System.Data.SqlClient.dll
+D:\Ado_net\01_Intro\2_Params\bin\Debug\System.Data.SqlClient.xml

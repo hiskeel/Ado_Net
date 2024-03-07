@@ -1,0 +1,7 @@
+D:\Ado_net\01_Intro\01_Intro\bin\Debug\01_Intro.exe.config
+D:\Ado_net\01_Intro\01_Intro\bin\Debug\01_Intro.exe
+D:\Ado_net\01_Intro\01_Intro\bin\Debug\01_Intro.pdb
+D:\Ado_net\01_Intro\01_Intro\obj\Debug\01_Intro.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\01_Intro\obj\Debug\01_Intro.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\01_Intro\obj\Debug\01_Intro.exe
+D:\Ado_net\01_Intro\01_Intro\obj\Debug\01_Intro.pdb
