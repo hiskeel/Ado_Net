@@ -26,3 +26,4 @@ D:\Ado_net\01_Intro\3_Data_acces_Layer\obj\Debug\net8.0\refint\3_Data_acces_Laye
 D:\Ado_net\01_Intro\3_Data_acces_Layer\obj\Debug\net8.0\3_Data_acces_Layer.pdb
 D:\Ado_net\01_Intro\3_Data_acces_Layer\obj\Debug\net8.0\3_Data_acces_Layer.genruntimeconfig.cache
 D:\Ado_net\01_Intro\3_Data_acces_Layer\obj\Debug\net8.0\ref\3_Data_acces_Layer.dll
+D:\Ado_net\01_Intro\3_Data_acces_Layer\obj\Debug\net8.0\3_Data_acces_Layer.sourcelink.json

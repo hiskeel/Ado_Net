@@ -1,0 +1,13 @@
+D:\Ado_net\01_Intro\5_DataAcces\bin\Debug\net8.0\5_DataAcces.deps.json
+D:\Ado_net\01_Intro\5_DataAcces\bin\Debug\net8.0\5_DataAcces.dll
+D:\Ado_net\01_Intro\5_DataAcces\bin\Debug\net8.0\5_DataAcces.pdb
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.AssemblyInfoInputs.cache
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.AssemblyInfo.cs
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.sourcelink.json
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.dll
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\refint\5_DataAcces.dll
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\5_DataAcces.pdb
+D:\Ado_net\01_Intro\5_DataAcces\obj\Debug\net8.0\ref\5_DataAcces.dll
