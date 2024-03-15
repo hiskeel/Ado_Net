@@ -209,17 +209,17 @@
           }
         }
       },
-      "5_DataAcces/1.0.0": {
+      "05_DataAcces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "System.Data.SqlClient": "4.8.6"
         },
         "compile": {
-          "bin/placeholder/5_DataAcces.dll": {}
+          "bin/placeholder/05_DataAcces.dll": {}
         },
         "runtime": {
-          "bin/placeholder/5_DataAcces.dll": {}
+          "bin/placeholder/05_DataAcces.dll": {}
         }
       }
     }
@@ -643,15 +643,15 @@
         "version.txt"
       ]
     },
-    "5_DataAcces/1.0.0": {
+    "05_DataAcces/1.0.0": {
       "type": "project",
-      "path": "../5_DataAcces/5_DataAcces.csproj",
-      "msbuildProject": "../5_DataAcces/5_DataAcces.csproj"
+      "path": "../5_DataAcces/05_DataAcces.csproj",
+      "msbuildProject": "../5_DataAcces/05_DataAcces.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "5_DataAcces >= 1.0.0",
+      "05_DataAcces >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 8.0.0"
     ]
   },
@@ -662,9 +662,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ado_net\\01_Intro\\4_ConnectedMode_wpf\\4_ConnectedMode_wpf.csproj",
-      "projectName": "4_ConnectedMode_wpf",
-      "projectPath": "D:\\Ado_net\\01_Intro\\4_ConnectedMode_wpf\\4_ConnectedMode_wpf.csproj",
+      "projectUniqueName": "D:\\Ado_net\\01_Intro\\4_ConnectedMode_wpf\\04_ConnectedMode_wpf.csproj",
+      "projectName": "04_ConnectedMode_wpf",
+      "projectPath": "D:\\Ado_net\\01_Intro\\4_ConnectedMode_wpf\\04_ConnectedMode_wpf.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\Ado_net\\01_Intro\\4_ConnectedMode_wpf\\obj\\",
       "projectStyle": "PackageReference",
@@ -688,8 +688,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj": {
-              "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj"
+            "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj": {
+              "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj"
             }
           }
         }

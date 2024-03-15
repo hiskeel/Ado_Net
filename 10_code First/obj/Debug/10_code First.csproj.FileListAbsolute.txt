@@ -1,0 +1,14 @@
+D:\Ado_net\01_Intro\10_code First\bin\Debug\10_code First.exe.config
+D:\Ado_net\01_Intro\10_code First\bin\Debug\10_code First.exe
+D:\Ado_net\01_Intro\10_code First\bin\Debug\10_code First.pdb
+D:\Ado_net\01_Intro\10_code First\bin\Debug\EntityFramework.dll
+D:\Ado_net\01_Intro\10_code First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ado_net\01_Intro\10_code First\bin\Debug\EntityFramework.xml
+D:\Ado_net\01_Intro\10_code First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ado_net\01_Intro\10_code First\bin\Debug\ru\EntityFramework.resources.dll
+D:\Ado_net\01_Intro\10_code First\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Ado_net\01_Intro\10_code First\obj\Debug\10_code First.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\10_code First\obj\Debug\10_code First.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\10_code First\obj\Debug\10_code .C101D607.Up2Date
+D:\Ado_net\01_Intro\10_code First\obj\Debug\10_code First.exe
+D:\Ado_net\01_Intro\10_code First\obj\Debug\10_code First.pdb

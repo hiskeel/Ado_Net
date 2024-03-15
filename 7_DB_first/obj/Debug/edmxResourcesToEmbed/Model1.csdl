@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SportShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PercentSale" Type="Int32" Nullable="false" />
+    <Property Name="Subscribe" Type="Boolean" />
+    <NavigationProperty Name="Salles" Relationship="Self.FK__Salles__ClientId__4BAC3F29" FromRole="Clients" ToRole="Salles" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="HireDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Gender" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Salary" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <NavigationProperty Name="Salles" Relationship="Self.FK__Salles__Employee__4AB81AF0" FromRole="Employees" ToRole="Salles" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TypeProduct" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="CostPrice" Type="Int32" Nullable="false" />
+    <Property Name="Producer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Salles" Relationship="Self.FK__Salles__ProductI__49C3F6B7" FromRole="Products" ToRole="Salles" />
+  </EntityType>
+  <EntityType Name="Salle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" />
+    <Property Name="ClientId" Type="Int32" Nullable="false" />
+    <Property Name="SaleDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Client" Relationship="Self.FK__Salles__ClientId__4BAC3F29" FromRole="Salles" ToRole="Clients" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK__Salles__Employee__4AB81AF0" FromRole="Salles" ToRole="Employees" />
+    <NavigationProperty Name="Product" Relationship="Self.FK__Salles__ProductI__49C3F6B7" FromRole="Salles" ToRole="Products" />
+  </EntityType>
+  <Association Name="FK__Salles__ClientId__4BAC3F29">
+    <End Role="Clients" Type="Self.Client" Multiplicity="1" />
+    <End Role="Salles" Type="Self.Salle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salles">
+        <PropertyRef Name="ClientId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Salles__Employee__4AB81AF0">
+    <End Role="Employees" Type="Self.Employee" Multiplicity="1" />
+    <End Role="Salles" Type="Self.Salle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salles">
+        <PropertyRef Name="EmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Salles__ProductI__49C3F6B7">
+    <End Role="Products" Type="Self.Product" Multiplicity="1" />
+    <End Role="Salles" Type="Self.Salle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salles">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SportShopContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Salles" EntityType="Self.Salle" />
+    <AssociationSet Name="FK__Salles__ClientId__4BAC3F29" Association="Self.FK__Salles__ClientId__4BAC3F29">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Salles" EntitySet="Salles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Salles__Employee__4AB81AF0" Association="Self.FK__Salles__Employee__4AB81AF0">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Salles" EntitySet="Salles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Salles__ProductI__49C3F6B7" Association="Self.FK__Salles__ProductI__49C3F6B7">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Salles" EntitySet="Salles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

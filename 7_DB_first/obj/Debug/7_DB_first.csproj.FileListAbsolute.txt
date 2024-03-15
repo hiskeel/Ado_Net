@@ -1,0 +1,13 @@
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\7_DB_first.exe.config
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\7_DB_first.exe
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\7_DB_first.pdb
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\EntityFramework.dll
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\EntityFramework.xml
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ado_net\01_Intro\7_DB_first\bin\Debug\ru\EntityFramework.resources.dll
+D:\Ado_net\01_Intro\7_DB_first\obj\Debug\7_DB_first.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\7_DB_first\obj\Debug\7_DB_first.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\7_DB_first\obj\Debug\7_DB_first.csproj.Up2Date
+D:\Ado_net\01_Intro\7_DB_first\obj\Debug\7_DB_first.exe
+D:\Ado_net\01_Intro\7_DB_first\obj\Debug\7_DB_first.pdb

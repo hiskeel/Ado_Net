@@ -1,0 +1,11 @@
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\8_Model first.exe.config
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\8_Model first.exe
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\8_Model first.pdb
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\EntityFramework.dll
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\EntityFramework.xml
+D:\Ado_net\01_Intro\8_Model first\bin\Debug\ru\EntityFramework.resources.dll
+D:\Ado_net\01_Intro\8_Model first\obj\Debug\8_Model first.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\8_Model first\obj\Debug\8_Model first.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\8_Model first\obj\Debug\8_Model .B8772CCC.Up2Date
+D:\Ado_net\01_Intro\8_Model first\obj\Debug\8_Model first.exe
+D:\Ado_net\01_Intro\8_Model first\obj\Debug\8_Model first.pdb

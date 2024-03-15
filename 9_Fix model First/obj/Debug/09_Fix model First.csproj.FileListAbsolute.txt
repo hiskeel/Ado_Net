@@ -1,0 +1,12 @@
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\9_Fix model First.exe.config
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\9_Fix model First.exe
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\9_Fix model First.pdb
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\EntityFramework.dll
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\EntityFramework.xml
+D:\Ado_net\01_Intro\9_Fix model First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ado_net\01_Intro\9_Fix model First\obj\Debug\09_Fix model First.csproj.AssemblyReference.cache
+D:\Ado_net\01_Intro\9_Fix model First\obj\Debug\09_Fix model First.csproj.CoreCompileInputs.cache
+D:\Ado_net\01_Intro\9_Fix model First\obj\Debug\09_Fix m.8E450944.Up2Date
+D:\Ado_net\01_Intro\9_Fix model First\obj\Debug\9_Fix model First.exe
+D:\Ado_net\01_Intro\9_Fix model First\obj\Debug\9_Fix model First.pdb

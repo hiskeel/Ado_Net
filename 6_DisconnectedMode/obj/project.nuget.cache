@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNEbNaXL3BWfdF5o1rwNVOzY2f5LfZTszjiv4LpPu1Gq4QC2yUJ1EbPbK/eeDssDQyvHKZvM08zQ+86scY1ukw==",
+  "dgSpecHash": "irpkPhH/ANU9qXbmC+jGUHitRWLUU+011q3BBFFsV5cmUSmAlVWTnENwNea04BhTurpn5kJbg8N4me+fTf2CvQ==",
   "success": true,
-  "projectFilePath": "D:\\Ado_net\\01_Intro\\6_DisconnectedMode\\6_DisconnectedMode.csproj",
+  "projectFilePath": "D:\\Ado_net\\01_Intro\\6_DisconnectedMode\\06_DisconnectedMode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

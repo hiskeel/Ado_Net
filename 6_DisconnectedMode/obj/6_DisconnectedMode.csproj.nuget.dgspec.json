@@ -4,12 +4,12 @@
     "D:\\Ado_net\\01_Intro\\6_DisconnectedMode\\6_DisconnectedMode.csproj": {}
   },
   "projects": {
-    "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj": {
+    "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj",
-        "projectName": "5_DataAcces",
-        "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj",
+        "projectUniqueName": "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj",
+        "projectName": "05_DataAcces",
+        "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\obj\\",
         "projectStyle": "PackageReference",
@@ -104,8 +104,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj": {
-                "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\5_DataAcces.csproj"
+              "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj": {
+                "projectPath": "D:\\Ado_net\\01_Intro\\5_DataAcces\\05_DataAcces.csproj"
               }
             }
           }
